@@ -50,4 +50,4 @@ The fdPIC.S is compiled in MPLAB X IDE using MPLAB XC8 PIC Assembler (pic-as) to
 
 # Hardware
 
-I am testing and using the project with PIC12F629. I guess it can easily be modified and run on other mid-range PICs.
+I am testing and using the project with PIC12F629. I guess it can easily be modified and run on other mid-range PICs. I do not know about the other PIC families, so I cannot say how easy it would be to use the code.
