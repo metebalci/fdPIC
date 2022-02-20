@@ -14,7 +14,7 @@ The picDIV project has different source files for common frequency division rati
 For example, the constants for ratio=1000 can be found like this:
 
 ```
-mete@ryzen3:~$ python search.py 1000
+$ python search.py 1000
 searching for: 1000
      1000 => a=  1, b=  1, c=196
      1000 => a=  2, b=  1, c= 97
