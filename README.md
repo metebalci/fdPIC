@@ -44,6 +44,10 @@ searching for: 1000
      1000 => a= 66, b=  1, c=  1
 ```
 
+Below is from the scope, fdPIC is running with ratio=1000, input is 1MHz, output is 1KHz.
+
+![scope.png](scope.png)
+
 # Compile
 
 The fdPIC.S is compiled in MPLAB X IDE using MPLAB XC8 PIC Assembler (pic-as) toolchain.
