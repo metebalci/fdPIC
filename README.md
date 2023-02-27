@@ -37,5 +37,5 @@ I am testing and using the project with PIC12F629. I guess it can easily be modi
 
 The input goes to GP5/CLKIN pin. MCLR is enabled, so it has to be pulled up to Vdd (10K resistor). I use the ICSP pins (GP0 and GP1) solely for ICSP, so nothing is connected to them. The output is GP2. GP4 is not used. All GPIO is set as outputs and driven to low at initialization but this does not affect ICSP pins or CLKIN. CLKIN is configured in configuration bits.
 
-![schematic](https://github.com/metebalci/fdPIC/blob/master/schematic.png?raw=true)
+![schematic](https://github.com/metebalci/fdPIC/blob/main/schematic.png?raw=true)
 
